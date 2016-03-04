@@ -1,0 +1,28 @@
+{
+    "name": "electron-windows-manager",
+    "version": "1.0.0",
+    "description": "A library to create and manage windows easily in node-electron",
+    "author": "Vivien Anglesio <vivien.anglesio@gmail.com>",
+    "scripts": {
+      "start": "node index.js",
+    },
+    "main": "lib/windows-manager.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/nodejitsu/browsenpm.org"
+    },
+    "bugs": {
+      "url": "https://github.com/nodejitsu/browsenpm.org/issues"
+    },
+    "keywords": [
+      "node-electron",
+      "electron",
+      "windows",
+      "manager",
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "license": "MIT"
+}
