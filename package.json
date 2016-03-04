@@ -4,7 +4,7 @@
     "description": "A library to create and manage windows easily in node-electron",
     "author": "Vivien Anglesio <vivien.anglesio@gmail.com>",
     "scripts": {
-      "start": "node index.js",
+      "start": "node index.js"
     },
     "main": "lib/windows-manager.js",
     "repository": {
@@ -18,7 +18,7 @@
       "node-electron",
       "electron",
       "windows",
-      "manager",
+      "manager"
     ],
     "dependencies": {
     },
